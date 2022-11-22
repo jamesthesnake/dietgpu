@@ -1,5 +1,5 @@
 # DietGPU: GPU-based lossless compression for numerical data
-
+messy
 Author: Jeff Johnson (@wickedfoo), `jhj _at_ fb.com`
 
 *(NOTE: very early alpha preview of the library; it is still under rapid development)*
